@@ -1,0 +1,9 @@
+{
+	"redirections": [
+		{
+			"source_path": "docs/concepts/compliance-gdpr.md",
+			"redirect_url": "/azure/kusto/concepts/data-purge",
+			"redirect_document_id": true
+		}
+	]
+}
