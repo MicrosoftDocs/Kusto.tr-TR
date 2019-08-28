@@ -1,0 +1,55 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "breadcrumb/toc.yml"
+        ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "searchScope": ["Azure", "Data Explorer", "Azure Data Explorer", "Kusto", "kusto"],
+      "breadcrumb_path": "~/breadcrumb/toc.yml",
+      "extendBreadcrumb": true,
+      "hide_comments": true,
+      "brand": "azure"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "kustolang",
+    "markdownEngineName": "markdig"
+  }
+}
