@@ -1,9 +1,29 @@
 {
 	"redirections": [
-		{
+        {
 			"source_path": "docs/concepts/compliance-gdpr.md",
 			"redirect_url": "/azure/kusto/concepts/data-purge",
 			"redirect_document_id": true
-		}
+        },
+        {
+			"source_path": "docs/tools/excel.md",
+			"redirect_url": "/azure/data-explorer/excel-blank-query",
+			"redirect_document_id": true
+        },
+        {
+			"source_path": "docs/management/data-ingestion/streaming.md",
+			"redirect_url": "/azure/data-explorer/ingest-data-streaming",
+			"redirect_document_id": true
+	},
+	{
+			"source_path": "docs/tools/grafana.md",
+			"redirect_url": "/azure/data-explorer/grafana",
+			"redirect_document_id": true
+	},
+	{
+			"source_path": "docs/tools/spark-connector.md",
+			"redirect_url": "/azure/data-explorer/spark-connector",
+			"redirect_document_id": true
+	}	
 	]
 }
