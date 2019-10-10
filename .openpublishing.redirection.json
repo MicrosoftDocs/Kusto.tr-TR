@@ -24,6 +24,16 @@
 			"source_path": "docs/tools/spark-connector.md",
 			"redirect_url": "/azure/data-explorer/spark-connector",
 			"redirect_document_id": true
-	}	
+	},
+	{
+			"source_path": "docs/query/shufflejoin.md",
+			"redirect_url": "/azure/kusto/query/shufflequery",
+			"redirect_document_id": false
+	},
+	{
+			"source_path": "docs/query/shufflesummarize.md",
+			"redirect_url": "/azure/kusto/query/shufflequery",
+			"redirect_document_id": true
+	}
 	]
 }
