@@ -10,11 +10,16 @@
 			"redirect_url": "/azure/data-explorer/excel-blank-query",
 			"redirect_document_id": true
         },
-        {
-			"source_path": "docs/management/data-ingestion/streaming.md",
-			"redirect_url": "/azure/data-explorer/ingest-data-streaming",
+	{
+			"source_path": "docs/tools/powerbi.md",
+			"redirect_url": "/azure/data-explorer/power-bi-imported-query",
 			"redirect_document_id": true
-	},
+        },
+	{
+			"source_path": "docs/tools/powerbi-connector.md",
+			"redirect_url": "/azure/data-explorer/power-bi-connector",
+			"redirect_document_id": true
+        },
 	{
 			"source_path": "docs/tools/grafana.md",
 			"redirect_url": "/azure/data-explorer/grafana",
@@ -34,6 +39,12 @@
 			"source_path": "docs/query/shufflesummarize.md",
 			"redirect_url": "/azure/kusto/query/shufflequery",
 			"redirect_document_id": true
+	},
+	{
+			"source_path": "docs/concepts/vnet-deployment.md",
+			"redirect_url": "/azure/data-explorer/vnet-deployment",
+			"redirect_document_id": true
 	}
+		
 	]
 }
