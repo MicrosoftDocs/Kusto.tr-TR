@@ -2,37 +2,37 @@
 	"redirections": [
         {
 			"source_path": "docs/concepts/compliance-gdpr.md",
-			"redirect_url": "/azure/kusto/concepts/data-purge",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/concepts/data-purge",
 			"redirect_document_id": true
         },
         {
 			"source_path": "docs/tools/excel.md",
-			"redirect_url": "/azure/data-explorer/excel-blank-query",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/excel-blank-query",
 			"redirect_document_id": true
         },
 	{
 			"source_path": "docs/tools/powerbi.md",
-			"redirect_url": "/azure/data-explorer/power-bi-imported-query",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/power-bi-imported-query",
 			"redirect_document_id": true
         },
 	{
 			"source_path": "docs/tools/powerbi-connector.md",
-			"redirect_url": "/azure/data-explorer/power-bi-connector",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/power-bi-connector",
 			"redirect_document_id": true
         },
 	{
 			"source_path": "docs/tools/grafana.md",
-			"redirect_url": "/azure/data-explorer/grafana",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/grafana",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/tools/spark-connector.md",
-			"redirect_url": "/azure/data-explorer/spark-connector",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/spark-connector",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/query/shufflejoin.md",
-			"redirect_url": "/azure/kusto/query/shufflequery",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/query/shufflequery",
 			"redirect_document_id": false
 	},
 	{
@@ -42,42 +42,42 @@
 	},
 	{
 			"source_path": "docs/concepts/vnet-deployment.md",
-			"redirect_url": "/azure/data-explorer/vnet-deployment",
+			"redirect_url": "https://docs.microsoft.com/azure/data-explorer/vnet-deployment",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/cachepolicy.md",
-			"redirect_url": "/azure/kusto/management/cachepolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/cachepolicy",
 			"redirect_document_id": true
 	},	
 	{
 			"source_path": "docs/concepts/ingestiontimepolicy.md",
-			"redirect_url": "/azure/kusto/management/ingestiontimepolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/ingestiontimepolicy",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/retentionpolicy.md",
-			"redirect_url": "/azure/kusto/management/retentionpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/retentionpolicy",
 			"redirect_document_id": true
 	},					
 	{
 			"source_path": "docs/concepts/rowlevelsecuritypolicy.md",
-			"redirect_url": "/azure/kusto/management/rowlevelsecuritypolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/rowlevelsecuritypolicy",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/roworderpolicy.md",
-			"redirect_url": "/azure/kusto/management/roworderpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/roworderpolicy",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/updatepolicy.md",
-			"redirect_url": "/azure/kusto/management/updatepolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/updatepolicy",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/batchingpolicy.md",
-			"redirect_url": "/azure/kusto/management/batchingpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/batchingpolicy",
 			"redirect_document_id": true
 	},		
 	{
@@ -87,47 +87,47 @@
 	},
 	{
 			"source_path": "docs/concepts/mergepolicy.md",
-			"redirect_url": "/azure/kusto/management/mergepolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/mergepolicy",
 			"redirect_document_id": true
 	},
 	{
 			"source_path": "docs/concepts/partitioningpolicy.md",
-			"redirect_url": "/azure/kusto/management/partitioningpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/partitioningpolicy",
 			"redirect_document_id": true
 	},
 	{	
 			"source_path": "docs/concepts/restrictedviewaccesspolicy.md",
-			"redirect_url": "/azure/kusto/management/restrictedviewaccesspolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/restrictedviewaccesspolicy",
 			"redirect_document_id": true
 	},
 	{	
 			"source_path": "docs/concepts/sandboxpolicy.md",
-			"redirect_url": "/azure/kusto/management/sandboxpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/sandboxpolicy",
 			"redirect_document_id": true
 	},
 	{	
 			"source_path": "docs/concepts/streamingingestionpolicy.md",
-			"redirect_url": "/azure/kusto/management/streamingingestionpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/streamingingestionpolicy",
 			"redirect_document_id": true
 	},
 	{	
 			"source_path": "docs/concepts/calloutpolicy.md",
-			"redirect_url": "/azure/kusto/management/calloutpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/calloutpolicy",
 			"redirect_document_id": true
 	},		
 	{	
 			"source_path": "docs/concepts/capacitypolicy.md",
-			"redirect_url": "/azure/kusto/management/capacitypolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/capacitypolicy",
 			"redirect_document_id": true
 	},
 	{	
 			"source_path": "docs/concepts/querythrottlingpolicy.md",
-			"redirect_url": "/azure/kusto/management/querythrottlingpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/querythrottlingpolicy",
 			"redirect_document_id": true
 	},	
 	{	
 			"source_path": "docs/concepts/querylimitpolicy.md",
-			"redirect_url": "/azure/kusto/management/querylimitpolicy",
+			"redirect_url": "https://docs.microsoft.com/azure/kusto/management/querylimitpolicy",
 			"redirect_document_id": true
 	}	
 	]
